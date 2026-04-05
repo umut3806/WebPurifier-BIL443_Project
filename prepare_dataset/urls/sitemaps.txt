@@ -1,0 +1,9 @@
+https://www.bbc.com/sitemaps/https-sitemap-com-archive-118.xml
+
+https://www.nytimes.com/sitemaps/new/news.xml.gz
+
+https://edition.cnn.com/sitemap/news.xml
+
+https://dev.to/sitemap-posts-70.xml
+    
+https://techcrunch.com/news-sitemap.xml
